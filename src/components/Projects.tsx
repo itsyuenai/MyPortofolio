@@ -25,7 +25,7 @@ const Projects = () => {
       category: 'Frontend Development',
       description: 'A stunning portfolio website for a digital artist featuring smooth animations, interactive galleries, and responsive design across all devices.',
       image: porto,
-      technologies: ['React', 'Typescript', 'Tailwind CSS', 'Figma'],
+      technologies: ['React', 'Typescript', 'CSS', 'Figma', 'JavaScript'],
       liveUrl: '#',
       githubUrl: 'https://github.com/itsyuenai/MyPortofolio'
     },
